@@ -44,24 +44,6 @@ cd car-dealer-app
 2. Install dependencies:
 ```bash
 npm install
-```
-
-3. Create `.env.local` and add environment variables:
-```env
-NEXT_PUBLIC_IMAGIN_API_KEY=your_key
-NEXT_PUBLIC_NHTSA_API_URL=https://vpic.nhtsa.dot.gov/api
-```
-
-4. Run development server:
-```bash
-npm run dev
-```
-
-5. Build for production:
-```bash
-npm run build
-npm start
-```
 
 ## Project Structure
 
